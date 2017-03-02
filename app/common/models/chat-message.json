@@ -1,0 +1,33 @@
+{
+  "name": "ChatMessage",
+  "plural": "chatmessages",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "posted_on": {
+      "type": "date"
+    },
+    "content": {
+      "type": "string",
+      "required": true
+    }
+  },
+  "validations": [],
+  "relations": {
+    "chatUser": {
+      "type": "belongsTo",
+      "model": "ChatUser",
+      "foreignKey": ""
+    },
+    "user": {
+      "type": "belongsTo",
+      "model": "user",
+      "foreignKey": ""
+    }
+  },
+  "acls": [],
+  "methods": {}
+}

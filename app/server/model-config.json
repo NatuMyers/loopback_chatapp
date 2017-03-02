@@ -34,5 +34,17 @@
   "Role": {
     "dataSource": "db",
     "public": false
+  },
+  "ChatUser": {
+    "dataSource": "db",
+    "public": true
+  },
+  "ChatRoom": {
+    "dataSource": "db",
+    "public": true
+  },
+  "ChatMessage": {
+    "dataSource": "db",
+    "public": true
   }
 }
