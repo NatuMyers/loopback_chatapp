@@ -7,3 +7,5 @@ https://github.com/wittydeveloper/loopback-talk-chat-app
 https://github.com/makersu/loopback-example-socket.io-chat
 
 http://loopback.io/examples/
+
+https://loopback.io/doc/en/lb2/Realtime-socket-io.html
