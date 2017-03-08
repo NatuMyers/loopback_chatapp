@@ -15,8 +15,13 @@ https://loopback.io/doc/en/lb2/Realtime-socket-io.html
 
 
 
-![alt tag](http://i.imgur.com/z7Q3RSo.png)
+## Scaffold with Yoeman
 ![alt tag](http://i.imgur.com/cRtfcUG.png)
-![alt tag](http://i.imgur.com/M7HySD5.png)
+![alt tag](http://i.imgur.com/z7Q3RSo.png)
+
+## Create Models
 ![alt tag](http://i.imgur.com/XR5dy37.png)
+
+## Add Access Control (ACL) for Auth
+![alt tag](http://i.imgur.com/M7HySD5.png)
 
